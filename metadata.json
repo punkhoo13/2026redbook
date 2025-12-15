@@ -1,0 +1,5 @@
+{
+  "name": "RED Trend Insight (小红书趋势洞察)",
+  "description": "An AI-powered dashboard analyzing Xiaohongshu (Little Red Book) fashion trends, consumer behavior, and future persona forecasting using Gemini 2.5.",
+  "requestFramePermissions": []
+}
